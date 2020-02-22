@@ -6,4 +6,5 @@ In all seriousness this is a joke algorithm.
 
 It is designed to take in a traning and testing data set, then use genetic algorithms to optimize the archieture of the neural network for solving the problem!
 
-
+This program is written and desigend by Matt Galberth and Oliver Lyon.
+ 
